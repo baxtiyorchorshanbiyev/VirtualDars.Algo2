@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualDars.Algo2", "VirtualDars.Algo2.csproj", "{1E447016-B500-4E14-94DD-58DC8B5A3FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E447016-B500-4E14-94DD-58DC8B5A3FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E447016-B500-4E14-94DD-58DC8B5A3FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E447016-B500-4E14-94DD-58DC8B5A3FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E447016-B500-4E14-94DD-58DC8B5A3FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {184C71C5-EE1C-4F0B-8B33-51F2BE9B35EB}
+	EndGlobalSection
+EndGlobal
